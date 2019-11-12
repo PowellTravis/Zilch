@@ -1,0 +1,8 @@
+Lib/
+Include/
+Scripts/
+Desktop.ini
+pyenv.cfg
+.*.db
+.*.db-shm
+.*.db-wal
