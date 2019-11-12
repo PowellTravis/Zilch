@@ -2,7 +2,7 @@ Lib/
 Include/
 Scripts/
 Desktop.ini
-pyenv.cfg
+pyvenv.cfg
 .*.db
 .*.db-shm
 .*.db-wal
